@@ -9,6 +9,10 @@ void main()
 	key_board();
 	P2 = key_number;
 	P2 = key_number;
+
+	P2 = key_number;
+	P2 = key_number;
+	P2 = key_number;
 	}
 }
 void delay(unsigned int t)
